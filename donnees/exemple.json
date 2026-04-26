@@ -1,0 +1,8 @@
+[
+  { "id": 1, "nom": "Alice",   "age": 30, "salaire": 55000, "actif": true,  "ville": "Paris" },
+  { "id": 2, "nom": "Bob",     "age": 25, "salaire": 38000, "actif": true,  "ville": "Lyon" },
+  { "id": 3, "nom": "Charlie", "age": 40, "salaire": 72000, "actif": false, "ville": "Marseille" },
+  { "id": 4, "nom": "Diana",   "age": 35, "salaire": 61000, "actif": true,  "ville": "Bordeaux" },
+  { "id": 5, "nom": "Eve",     "age": 28, "salaire": 44000, "actif": false, "ville": "Nantes" },
+  { "id": 6, "nom": "Frank",   "age": 45, "salaire": 89000, "actif": true,  "ville": "Paris" }
+]

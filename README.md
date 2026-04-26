@@ -4,7 +4,7 @@
 
 ## Contexte
 
-Projet réalisé dans le cadre du cours **"Scripting Python"** à l'ESGI (Classe 3IABD2).
+Projet réalisé dans le cadre du cours **"Scripting Python"** à l'ESGI.
 DataFilter est un outil en ligne de commande pour lire, parser et analyser des fichiers de données structurées (CSV, JSON, YAML, XML).
 
 ## Objectif
@@ -18,7 +18,7 @@ Développer une bibliothèque CLI polyvalente capable de :
 ## Structure du Projet
 
 ```
-DataFilter_Vincent_HAINOZ-DELATTRE_3IABD2/
+DataFilter_CLI/
 ├── code/                           # Code source principal
 │   ├── main.py                     # Point d'entrée de l'application
 │   ├── interface.py                # Interface CLI et menus interactifs

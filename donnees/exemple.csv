@@ -1,0 +1,7 @@
+id,nom,age,salaire,actif,ville
+1,Alice,30,55000,True,Paris
+2,Bob,25,38000,True,Lyon
+3,Charlie,40,72000,False,Marseille
+4,Diana,35,61000,True,Bordeaux
+5,Eve,28,44000,False,Nantes
+6,Frank,45,89000,True,Paris
